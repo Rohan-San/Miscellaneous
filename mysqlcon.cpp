@@ -1,5 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 #include <SQLAPI.h> // main SQLAPI++ header
+
 int main(int argc, char* argv[])
 {
     SAConnection con; // connection object to connect to database
