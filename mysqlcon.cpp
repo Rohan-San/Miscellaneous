@@ -1,3 +1,5 @@
+// Sample code
+
 #include <stdio.h>
 #include <SQLAPI.h> // main SQLAPI++ header
 
